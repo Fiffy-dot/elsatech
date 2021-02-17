@@ -1,0 +1,121 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    background-color:#eeeeee ;
+    line-height: 2;
+}
+p{
+    width: 40%;
+    text-align: center;
+    margin: auto;
+}
+.nav{
+    background-color:#eeeeee ;
+    text-align: right;
+    font-family: 'Merriweather', serif;
+    
+}
+.home-btn{
+    display: inline;
+    padding: 8px;
+    color: #00adb5;
+    text-decoration: none;
+}
+.home-btn:hover{
+    color: #000000;
+}
+.top-image{
+    display: block;
+    margin: 50px auto;
+    border-radius: 75px;
+    width: 50%;
+}
+.top-container{
+    background-color:#eeeeee ;
+    position: relative; 
+    padding-top: 20px;
+    margin: 0;
+
+}
+h1{
+    margin: 0 auto ;
+    font-family: 'Sacramento', cursive;
+    color: #393e46;
+    font-size: 5.625rem ;
+    line-height: 2;
+}
+.description{
+    width: 30%;
+    margin: auto;
+    padding-bottom: 30px;
+}
+.about-us{
+    text-align: left;
+    width: 50%;
+    margin:100px auto ;
+}
+.pic1{
+    float: left;
+    margin-right: 30px;
+    border-radius: 75px;
+    width: 30%;
+}
+.pic2{
+    float: right;
+    margin-left: 30px;
+    border-radius: 75px;
+    width: 25%;
+}
+.btn {
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    height: 0;
+    line-height: 0;
+    color: #FFFFFF;
+    font-family: 'Merriweather', serif;
+    width: 114px;
+    font-size: 20px;
+    font-weight: 100;
+    padding: 18px;
+    background-color: #00ADB5;
+    text-shadow: 1px 1px 20px #000000;
+    border: solid 1px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+ }
+ 
+ .btn:hover {
+    background: #393E46;
+    border: solid #337FED 1px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    text-decoration: none;
+ }   
+ hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    width: 5%;
+    margin: 100px auto;   
+ }
+ .bottom-part{ 
+    background-color: #393e46;
+    padding: 50px 0 20px;
+ }
+ .copyright{
+    font-size: 0.75rem;
+    padding:20px 0;
+}
+.footer{
+    padding-top: 50px;
+    color: #00adb5;
+    text-decoration: none;
+}
+.footer:hover{
+    color: #000000;
+}
